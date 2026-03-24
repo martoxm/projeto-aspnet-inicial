@@ -23,7 +23,7 @@ O objetivo é criar uma página de **cadastro simples**, enviando dados via form
 2. Execute:
 *dotnet run*
 3. Acesse no navegador:
-https://localhost:5001/Usuario/Cadastro (exemplo de link)
+[https://localhost:5001/Usuario/Cadastro (exemplo de link)]
 
 ---
 
